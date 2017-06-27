@@ -14,9 +14,9 @@
 
 #include "CoinQ_txs.h"
 
-#include <CoinCore/CoinNodeData.h>
-#include <CoinCore/hdkeys.h>
-#include <CoinCore/typedefs.h>
+#include <CoinNodeData.h>
+#include <hdkeys.h>
+#include <typedefs.h>
 
 #include <algorithm>
 #include <deque>

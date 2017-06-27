@@ -15,7 +15,7 @@
 #include "CoinQ_signals.h"
 #include "CoinQ_slots.h"
 
-#include <CoinCore/CoinNodeData.h>
+#include <CoinNodeData.h>
 
 #include <set>
 #include <map>

@@ -9,6 +9,10 @@
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 //
 
+#if defined(HAVE_CONFIG_H)
+#include "config/msigna-config.h"
+#endif
+
 #ifndef VAULT_COMMANDS_H
 #define VAULT_COMMANDS_H
 

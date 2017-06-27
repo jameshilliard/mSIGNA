@@ -27,8 +27,8 @@
 #include "CoinQ_typedefs.h"
 #include "CoinQ_coinparams.h"
 
-#include <CoinCore/typedefs.h>
-#include <CoinCore/BloomFilter.h>
+#include <typedefs.h>
+#include <BloomFilter.h>
 
 #include <queue>
 

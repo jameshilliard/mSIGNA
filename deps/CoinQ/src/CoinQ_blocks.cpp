@@ -11,7 +11,7 @@
 
 #include "CoinQ_blocks.h"
 
-#include <logger/logger.h>
+#include <logger.h>
 
 using namespace CoinQ;
 

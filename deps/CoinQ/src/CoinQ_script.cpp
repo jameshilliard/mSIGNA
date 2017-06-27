@@ -11,8 +11,8 @@
 
 #include "CoinQ_script.h"
 
-#include <CoinCore/Base58Check.h>
-#include <CoinCore/secp256k1_openssl.h>
+#include <Base58Check.h>
+#include <secp256k1_openssl.h>
 
 //#include <logger/logger.h>
 

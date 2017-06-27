@@ -15,7 +15,7 @@
 #include "BigInt.h"
 #include "hash.h"
 
-#include <stdutils/uchar_vector.h>
+#include <uchar_vector.h>
 
 #include <stdexcept>
 

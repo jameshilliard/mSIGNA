@@ -12,7 +12,7 @@
 #ifndef BLOOM_FILTER_H__
 #define BLOOM_FILTER_H__
 
-#include <stdutils/uchar_vector.h>
+#include <uchar_vector.h>
 
 namespace Coin {
 

@@ -16,7 +16,7 @@
 #include "CoinQ_keys.h"
 #include "CoinQ_signals.h"
 
-#include <CoinCore/CoinNodeData.h>
+#include <CoinNodeData.h>
 
 #include <map>
 

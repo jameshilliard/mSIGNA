@@ -13,7 +13,7 @@
 
 #include "CoinQ_exceptions.h"
 
-#include <CoinCore/CoinNodeData.h>
+#include <CoinNodeData.h>
 
 #include <vector>
 #include <map>

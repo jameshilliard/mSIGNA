@@ -16,7 +16,7 @@
 #include "typedefs.h"
 #include "random.h"
 
-#include <stdutils/customerror.h>
+#include <customerror.h>
 
 namespace AES
 {

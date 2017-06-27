@@ -18,7 +18,7 @@
 #include "CoinQ_txs.h"
 #include "CoinQ_keys.h"
 
-#include <CoinCore/CoinNodeData.h>
+#include <CoinNodeData.h>
 
 #include <string>
 #include <set>

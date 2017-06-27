@@ -11,6 +11,10 @@
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 //
 
+#if defined(HAVE_CONFIG_H)
+#include "config/msigna-config.h"
+#endif
+
 #include "viewbip39dialog.h"
 
 #include <CoinCore/bip39.h>

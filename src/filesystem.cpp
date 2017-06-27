@@ -11,6 +11,10 @@
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 //
 
+#if defined(HAVE_CONFIG_H)
+#include "config/msigna-config.h"
+#endif
+
 #include "filesystem.h"
 
 #ifdef _WIN32

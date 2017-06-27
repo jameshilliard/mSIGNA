@@ -13,11 +13,11 @@
 
 #include "CoinQ_typedefs.h"
 
-#include <CoinCore/MerkleTree.h>
+#include <MerkleTree.h>
 
 #include <stdint.h>
 
-#include <logger/logger.h>
+#include <logger.h>
 
 #include <thread>
 #include <chrono>

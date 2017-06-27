@@ -17,7 +17,7 @@
 
 #include "encodings.h"
 
-#include <stdutils/uchar_vector.h>
+#include <uchar_vector.h>
 
 // unsecure versions, suitable for public keys
 inline unsigned int countLeading0s(const std::vector<unsigned char>& data)

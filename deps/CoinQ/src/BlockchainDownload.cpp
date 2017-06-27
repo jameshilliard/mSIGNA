@@ -11,7 +11,7 @@
 
 #include "BlockchainDownload.h"
 
-#include <logger/logger.h>
+#include <logger.h>
 
 #include <thread>
 #include <chrono>

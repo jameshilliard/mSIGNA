@@ -12,7 +12,7 @@
 #ifndef _COINQ_KEYS_H_
 #define _COINQ_KEYS_H_
 
-#include <CoinCore/CoinNodeData.h>
+#include <CoinNodeData.h>
 
 #include <set>
 #include <string>

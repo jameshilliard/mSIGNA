@@ -14,10 +14,10 @@
 #include "CoinQ_signals.h"
 #include "CoinQ_slots.h"
 
-#include <CoinCore/typedefs.h>
-#include <CoinCore/numericdata.h>
+#include <typedefs.h>
+#include <numericdata.h>
 
-#include <logger/logger.h>
+#include <logger.h>
 
 #include <queue>
 
@@ -25,7 +25,7 @@
 #include <boost/thread.hpp>
 #include <boost/asio.hpp>
 
-#include <CoinCore/CoinNodeData.h> // TODO: Move flags into separate include file
+#include <CoinNodeData.h> // TODO: Move flags into separate include file
 
 // TODO: Support flags for segregated witness
 const uint32_t DEFAULT_INV_FLAGS = 0; // MSG_WITNESS_FLAG;

@@ -22,10 +22,10 @@
 #include "CoinQ_coinparams.h"
 #include "CoinQ_blocks.h"
 
-#include <CoinCore/typedefs.h>
-#include <CoinCore/CoinNodeData.h>
+#include <typedefs.h>
+#include <CoinNodeData.h>
 
-#include <Signals/Signals.h>
+#include <Signals.h>
 
 #include <queue>
 

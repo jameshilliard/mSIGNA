@@ -11,7 +11,7 @@
 
 #include "CoinQ_keys.h"
 
-#include <CoinCore/Base58Check.h>
+#include <Base58Check.h>
 
 #include <fstream>
 

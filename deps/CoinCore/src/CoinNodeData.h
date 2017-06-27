@@ -17,7 +17,7 @@
 
 #include "BigInt.h"
 
-#include <stdutils/uchar_vector.h>
+#include <uchar_vector.h>
 
 #include <functional>
 #include <list>
